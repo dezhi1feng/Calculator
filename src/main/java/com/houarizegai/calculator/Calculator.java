@@ -592,7 +592,7 @@ public class Calculator {
                 btn6.setBackground(secondaryDarkColor);
                 btn7.setBackground(secondaryDarkColor);
                 btn8.setBackground(secondaryDarkColor);
-                btn9.setBackground(secondaryDarkColor);
+                btn9.setBackground(primaryDarkColor);
                 btnPoint.setBackground(secondaryDarkColor);
 
                 btnC.setForeground(secondaryDarkColor);
